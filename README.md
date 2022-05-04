@@ -11,25 +11,25 @@ Setiap fitur berfungsi sebagaimana mestinya.
 
 ### Hasil Program
 <p align="left">
-  <img width="370" height="520" src="https://github.com/silmiaulia/TP3DPBO2022/blob/main/Screenshot/tampilanAwal.png">
+  <img width="270" height="420" src="https://github.com/silmiaulia/TP3DPBO2022/blob/main/Screenshot/tampilanAwal.png">
 </p>
 #### Halaman Input Data
 <p align="left">
-  <img width="794" height="474" src="https://github.com/silmiaulia/TP3DPBO2022/blob/main/Screenshot/windowInput.png">
+  <img width="504" height="294" src="https://github.com/silmiaulia/TP3DPBO2022/blob/main/Screenshot/windowInput.png">
 </p>
 #### Halaman Tampil Semua Data
 <p align="left">
-  <img width="1097" height="384" src="https://github.com/silmiaulia/TP3DPBO2022/blob/main/Screenshot/tampilData.png">
+  <img width="657" height="204" src="https://github.com/silmiaulia/TP3DPBO2022/blob/main/Screenshot/tampilData.png">
 </p>
 #### Halaman Tampil Fasilitas Kampus
 <p align="left">
-  <img width="881" height="781" src="https://github.com/silmiaulia/TP3DPBO2022/blob/main/Screenshot/fasilitas1.png">
+  <img width="481" height="381" src="https://github.com/silmiaulia/TP3DPBO2022/blob/main/Screenshot/fasilitas1.png">
 </p>
 
 <p align="left">
-  <img width="881" height="781" src="https://github.com/silmiaulia/TP3DPBO2022/blob/main/Screenshot/fasilitas2.png">
+  <img width="481" height="381" src="https://github.com/silmiaulia/TP3DPBO2022/blob/main/Screenshot/fasilitas2.png">
 </p>
 
 <p align="left">
-  <img width="881" height="781" src="https://github.com/silmiaulia/TP3DPBO2022/blob/main/Screenshot/fasilitas3.png">
+  <img width="481" height="381" src="https://github.com/silmiaulia/TP3DPBO2022/blob/main/Screenshot/fasilitas3.png">
 </p>
