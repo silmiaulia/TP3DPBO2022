@@ -4,7 +4,7 @@
 > maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin 
 
 ### Deskripsi Program 
-Program TP3 ini merupakan GUI Python mengenai data mahasiswa yang dihubungkan dengan database MySQL menggunakan library MySQL Connector. Terdapat 4 fitur utama 
+Program TP3 ini merupakan GUI mengenai data mahasiswa yang dihubungkan dengan database MySQL menggunakan library MySQL Connector dalam bahasa pemograman Python. Terdapat 4 fitur utama 
 pada program yaitu input data mahasiswa, tampilkan semua data mahasiswa, hapus semua data mahasiswa, dan tampilkan fasilitas kampus. 
 Setiap fitur berfungsi sebagaimana mestinya.
 
