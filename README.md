@@ -13,15 +13,21 @@ Setiap fitur berfungsi sebagaimana mestinya.
 <p align="left">
   <img width="270" height="420" src="https://github.com/silmiaulia/TP3DPBO2022/blob/main/Screenshot/tampilanAwal.png">
 </p>
+
 #### Halaman Input Data
+
 <p align="left">
   <img width="504" height="294" src="https://github.com/silmiaulia/TP3DPBO2022/blob/main/Screenshot/windowInput.png">
 </p>
+
 #### Halaman Tampil Semua Data
+
 <p align="left">
   <img width="657" height="204" src="https://github.com/silmiaulia/TP3DPBO2022/blob/main/Screenshot/tampilData.png">
 </p>
+
 #### Halaman Tampil Fasilitas Kampus
+
 <p align="left">
   <img width="481" height="381" src="https://github.com/silmiaulia/TP3DPBO2022/blob/main/Screenshot/fasilitas1.png">
 </p>
